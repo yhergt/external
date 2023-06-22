@@ -1,0 +1,48 @@
+.warning {
+background-color: red;
+border: 2px solid white;
+text-align: center;
+color: white;
+font-size: 130%;
+}
+.comms {
+ border: 2px solid white;
+ margin: 20px;
+ padding: 10px;
+ color: cyan;
+}
+header {
+ text-align: center;
+ font-size: 200%;
+ color: white;
+ font-family: courier;
+}
+.raisa {
+ background-color: khaki;
+ color: black;
+ border: 2px solid black;
+ margin: 20px;
+ padding: 20px;
+ text-align: center;
+}
+.box {
+border: 1px solid white
+}
+.center {
+text-align: center
+}
+img {
+text-align: center
+}
+}
+td, th {
+  border: 1px solid white;
+  text-align: left;
+  padding: 8px;
+}
+h1 {color: white; font-family: courier; text-align: center;}
+h4 {color: purple; font-family: courier;}
+p {color: lime; font-family: courier;}
+ul {color: lime; font-family: courier;}
+a {color: red; font-family: courier;}
+body {background-color: black;}

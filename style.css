@@ -1,0 +1,33 @@
+.raisa {
+ background-color: khaki;
+ color: black;
+ border: 2px solid black;
+ margin: 20px;
+ padding: 20px;
+ text-align: center;
+}
+.comms {
+ background-color: lightgray;
+ border: 2px solid black;
+ margin: 20px;
+ padding: 10px;
+ font-size: 110%;
+}
+header {
+  background-color: brown;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  font-family: bahnschrift;
+}
+h1 {font-family: arial;}
+h4 {font-family: arial;}
+p {font-family: calibri;}
+a {font-size: 130%; color: brown; font-family: calibri;}
+td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+  font-family: calibri;
+}
